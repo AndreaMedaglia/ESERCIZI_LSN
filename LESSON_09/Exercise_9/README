@@ -1,0 +1,27 @@
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 9
+			 ESERCIZIO 9
+
+*****************************************************************/
+
+1) Le variabili del file input.dat sono:
+	- N_cities, numero di città 
+	- N_pop, numero di cromosomi della popolazione
+	- N_iter, numero di generazioni
+	- N_mut, numero di permutazioni nella funzione permutation()
+	- N_in, un intero tale per cui se N_in=0 allora le città sono disposte casualmente nel quadrato unitario, se N_in=1 sono disposte casualmente sulla circonferenza unitaria
+	- p_crossover, p_permutation, p_shift, p_inversion le probabilità di effettuare crossover, permutazioni, shift e inversioni a specchio
+
+2) I grafici nel jupyter-notebook sono ottenuti da output rinominati
+
+
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 9
+			 ESERCIZIO 9
+
+*****************************************************************/
+

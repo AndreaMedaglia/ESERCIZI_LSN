@@ -1,0 +1,27 @@
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 10
+			 ESERCIZIO 10.1
+
+*****************************************************************/
+
+1) Le variabili del file input.dat sono:
+	- N_cities, numero di città 
+	- N_metro, numero di iterazioni Metropolis 
+	- beta e beta_fin sono il valore iniziale e quello finale della temperatura inversa 
+	- incr è di quanto viene incrementato beta alla fine di ogni iterazione
+	- N_in, un intero tale per cui se N_in=0 allora le città sono disposte casualmente nel quadrato unitario, se N_in=1 sono disposte casualmente sulla circonferenza unitaria
+
+
+2) I grafici nel jupyter-notebook sono ottenuti da output rinominati
+
+
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 10
+			 ESERCIZIO 10.1
+
+*****************************************************************/
+

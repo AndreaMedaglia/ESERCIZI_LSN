@@ -1,0 +1,19 @@
+30
+1000
+1
+200
+0.1
+0
+
+
+
+  ReadInput >> N_cities;
+  ReadInput >> N_metro;
+  ReadInput >> beta;
+  ReadInput >> beta_fin;
+  ReadInput >> incr;
+  ReadInput >> N_in;
+
+
+
+

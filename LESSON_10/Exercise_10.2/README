@@ -1,0 +1,25 @@
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 10
+			 ESERCIZIO 10.2
+
+*****************************************************************/
+
+1) Le variabili del file input.dat sono:
+	- N_cities, numero di città 
+	- N_metro, numero di iterazioni Metropolis 
+	- incr è di quanto viene incrementato beta alla fine di ogni iterazione
+	- N_in, un intero tale per cui se N_in=0 allora le città sono disposte casualmente nel quadrato unitario, se N_in=1 sono disposte casualmente sulla circonferenza unitaria
+
+2) Vengono creati 3 file output per ogni nodo, contenenti il miglior percorso alla temperatura finale, la lunghezza del percorso in relazione al numero di iterazione e un file contenente i parametri generati casualmente. Rinominare per i grafici
+
+
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 10
+			 ESERCIZIO 10.2
+
+*****************************************************************/
+

@@ -1,0 +1,24 @@
+10000
+100
+2000  
+0.0
+0
+2.5
+0.620
+0.660
+0.770
+0.820
+
+
+  ReadInput >> N;
+  ReadInput >> M;
+  ReadInput >> q;
+  ReadInput >> x_0;
+  ReadInput >> _min;
+  ReadInput >> _max;
+  ReadInput >> sigma_min;
+  ReadInput >> sigma_max;
+  ReadInput >> mu_min;
+  ReadInput >> mu_max;
+
+

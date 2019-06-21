@@ -1,0 +1,36 @@
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 2
+			 ESERCIZIO 2.1
+
+*****************************************************************/
+
+1) Il nome dell'output è generico, per osservare i grafici sul jupyter-notebook rinominare in modo opportuno i file nella cartella Output
+
+2) Commentare/scommentare il blocco di codice relativo in base alla tecnica che si vuole utilizzare: 
+	- campionamento da distribuzione uniforme
+	- campionamento da distribuzione non uniforme, importance sampling tecnique
+
+3) All'interno del blocco relativo all'importance sampling tecnique ci sono due opzioni, in base alla funzione con cui 
+   si intende approssimare (per le espressioni analitiche, vedere jupyter-notebook) la funzione integranda. 
+   Commentare/scommentare il ciclo while a seconda che si voglia utilizzare:
+	- retta 
+	- parabola
+  
+4) Nella parte realativa al datablocking, commentare/scommentare le istruzioni per il calcolo della variabile sum in base alle scelte
+   fatte in precedenza riguardo alla distribuzione:
+	- uniforme
+	- retta
+	- parabola 
+
+ - Queste stesse istruzioni sono indicate sotto commento anche nei punti interessati del file main.cpp
+
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 2
+			 ESERCIZIO 2.1
+
+*****************************************************************/
+

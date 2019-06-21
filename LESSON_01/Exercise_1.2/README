@@ -1,0 +1,26 @@
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 1
+			 ESERCIZIO 1.2
+
+*****************************************************************/
+
+1) Per ottenere i diversi istogrammi di S_L al variare di L, modificare la sua definizione "int L = ... " nel main
+
+2) Il nome dell'output è generico, per osservare i grafici sul jupyter-notebook rinominare in modo opportuno i file nella cartella Output
+  
+3) Nel ciclo for che genera i numeri casuali r[i] con i=0,...,M-1 ricordarsi di commentare/scommentare l'istruzione per la generazione 
+   dei numeri in base alla distribuzione che si intende usare
+
+
+ - Queste stesse istruzioni sono indicate sotto commento anche nei punti interessati del file main.cpp
+
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 1
+			 ESERCIZIO 1.2
+
+*****************************************************************/
+

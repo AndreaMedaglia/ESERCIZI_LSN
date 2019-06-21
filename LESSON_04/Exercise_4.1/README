@@ -1,0 +1,22 @@
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 4
+			 ESERCIZIO 4.1
+
+*****************************************************************/
+
+1) Il nome dell'output è generico, per osservare i grafici sul jupyter-notebook rinominare in modo opportuno i file nella cartella Output
+
+2) La spiegazione del funzionamento del programma è nel jupyter-notebook.
+
+3) Da file input.dat vengono letti i parametri per la simulazione, temperatura, numero di particelle, densità, cutoff, delta di Verlet, numero di passi Verlet per blocco (ma i dati vengono salvati ogni 10 passi), e numero di blocchi totale. 
+
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 4
+			 ESERCIZIO 4.1
+
+*****************************************************************/
+

@@ -1,0 +1,27 @@
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 7
+			 ESERCIZIO 7
+
+*****************************************************************/
+
+
+1) Nel file input.dat, insieme ai parametri temperatura, densità, cutoff, è necessario modificare anche la variabile delta, cioè il passo Metropolis, in modo che la accettazione resti intorno al 50%. In particolare:
+	- delta=0.12 per la fase solida
+	- delta=0.2 per la fase liquida
+	- delta=5.0 per la fase gassosa
+
+2) I nomi degli output sono generici, per osservare i grafici sul jupyter-notebook rinominare in modo opportuno i file nella cartella Output
+
+3) Ogni volta che viene fatta ripartire una simulazione ricordarsi di cancellare gli output non rinominati, dato che il programma non sovrascrive i dati
+
+
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 7
+			 ESERCIZIO 7
+
+*****************************************************************/
+

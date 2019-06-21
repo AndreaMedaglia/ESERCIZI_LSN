@@ -1,0 +1,32 @@
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 5
+			 ESERCIZIO 5.1
+
+*****************************************************************/
+
+1) Il nome dell'output è generico, per osservare i grafici sul jupyter-notebook rinominare in modo opportuno i file nella cartella Output
+
+2) Le seguenti istruzioni valgono sia nella parte di codice realtiva all'equilibrazione del sistema sia in quella della simulazione "vera".
+   Commentare/scommentare l'assegnamento della variabile casuale d (il passo Metropolis) nei quattro casi in esame: 
+	- caso multivariato per l'orbitale 2p
+	- caso multivariato per il Ground State
+	- caso uniforme per l'orbitale 2p
+	- caso uniforme per il Ground State
+
+3) Le seguenti istruzioni valgono sia nella parte di codice realtiva all'equilibrazione del sistema sia in quella della simulazione "vera".
+   Commentare/scommentare l'assegnamento della variabile alpha nei due casi in esame: 
+	- Ground State
+	- Orbitale 2p
+
+ - Queste stesse istruzioni sono indicate sotto commento anche nei punti interessati del file main.cpp
+
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 5
+			 ESERCIZIO 5.1
+
+*****************************************************************/
+

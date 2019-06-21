@@ -1,0 +1,23 @@
+30
+1000
+500
+1
+1
+0.500
+0.100
+0.070
+0.050
+
+  ReadInput >> N_cities;
+  ReadInput >> N_pop;
+  ReadInput >> N_iter;
+  ReadInput >> N_mut;
+  ReadInput >> N_in;
+  ReadInput >> p_crossover;
+  ReadInput >> p_permutation;
+  ReadInput >> p_shift;
+  ReadInput >> p_inversion;
+
+
+
+

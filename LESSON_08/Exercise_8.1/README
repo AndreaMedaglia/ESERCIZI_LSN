@@ -1,0 +1,33 @@
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 8
+			 ESERCIZIO 8.1
+
+*****************************************************************/
+
+Il programma funziona nel seguente modo. 
+
+Vengono generate casualmente un certo numero q di coppie di parametri, ognuna di queste è associata ad una struct (che contiene anche altri vettori e informazioni). Per ogni coppia di parametri vengono effettuati N passi Metropolis, ogni posizione viene salvata in un vettore (per l'istogramma). Per ogni coppia inoltre viene calcolata l'energia e il relativo errore con la tecnica del datablocking (M blocchi). Viene salvato anche il valore di energia (en_best) dell'ultimo blocco per ogni coppia di parametri. In base a quel valore di energia il vettore di struct viene ordinato in ordine crescente.
+
+Il primo elemento di quel vettore di struct quindi conterrà le infomazioni della migliore (cioè associata ad energia minore) coppia di parametri sigma e mu.    
+
+1) Le altre variabili del file input.dat sono:
+	- N, numero di passi Metropolis 
+	- M, numero di blocchi (per la tecnica del datablocking)
+	- q, numero di coppie di parametri generati
+	- _min e _max gli estremi dell'intervallo da cui viene estratto uniformemente il passo Metropolis (in modo da avere 50% di accettazione)
+	- x_0 il punto di partenza di Metropolis
+	- sigma_min, sigma_max, mu_min e mu_max gli estremi dei due intevalli in cui vengono generati casualmente i parametri mu e sigma
+
+2) il file output Minimization.txt contiene i valori ordinati di energia relativi alla coppia di parametri. Serve anche per vedere grossomodo il range di mu e sigma entro cui generarli.
+
+
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 8
+			 ESERCIZIO 8.1
+
+*****************************************************************/
+

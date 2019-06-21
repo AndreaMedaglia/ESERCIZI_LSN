@@ -1,0 +1,34 @@
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 6
+			 ESERCIZIO 6.1
+
+*****************************************************************/
+
+Il programma simula un Modello di Ising 1D a temperatura fissa o variabile. La scelta viene fatta da input.
+
+1) Dal file input.dat vengono lette diverse informazioni, tra cui:
+
+	- sim, un intero tale per cui se sim=0 il programma simula a temperature diverse, salvando i dati relativi all'ultimo blocco per ogni temperatura. Se invece sim=1 il programma simula alla stessa temperatura temp, salvando dati relativi ad ogni blocco e la configurazione finale  
+
+	- metro, un intero tale per cui se metro=0 il programma usa Gibbs, se metro=1 usa Metropolis
+
+	- temp, che è la temperatura iniziale o fissa (a seconda di sim) della simulazione 
+
+	- T_fin, che è la temperatura finale (ATTENZIONE: in realtà la simulazione si ferma a T_fin-incr, quindi scrivere come temperatura finale quella desiderata + l'incremento)
+
+	- incr, che è il valore di cui viene incrementata la temperatura alla fine di ogni ciclo
+
+
+2) Il nome dell'output è generico, per osservare i grafici sul jupyter-notebook rinominare in modo opportuno i file nella cartella Output
+
+
+/****************************************************************
+
+			ANDREA MEDAGLIA 
+			   LEZIONE 6
+			 ESERCIZIO 6.1
+
+*****************************************************************/
+
